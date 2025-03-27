@@ -1,4 +1,3 @@
-[![codecov](https://codecov.io/gh/0xPolygon/go-ibft/branch/main/graph/badge.svg?token=0vLkmaEq3h)](https://codecov.io/gh/0xPolygon/go-ibft)
 # go-ibft README
 
 ## Overview
