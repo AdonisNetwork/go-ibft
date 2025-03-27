@@ -16,7 +16,7 @@ As mentioned before, `go-ibft` implements basic IBFT 2.0 state machine logic, me
 
 To get up and running with the `go-ibft` package, you can pull it into your project using:
 
-`go get github.com/0xPolygon/go-ibft`
+`go get github.com/AdonisNetwork/go-ibft`
 
 Currently, the minimum required go version is `go 1.17`.
 
@@ -25,7 +25,7 @@ Currently, the minimum required go version is `go 1.17`.
 ```go
 package main
 
-import "github.com/0xPolygon/go-ibft"
+import "github.com/AdonisNetwork/go-ibft"
 
 // IBFTBackend is the structure that implements all required
 // go-ibft Backend interfaces
@@ -73,7 +73,7 @@ func main() {
 
 ## License
 
-Copyright 2022 Polygon Technology
+Copyright 2025 Adonis Network
 Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 ### http://www.apache.org/licenses/LICENSE-2.0
