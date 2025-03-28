@@ -1,5 +1,4 @@
-[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=adonisnetwork_go-ibft&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adonisnetwork_go-ibft)
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AdonisNetwork_go-ibft&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=AdonisNetwork_go-ibft)
 # go-ibft README
 
 ## Overview
