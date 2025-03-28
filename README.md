@@ -1,3 +1,5 @@
+[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=adonisnetwork_go-ibft&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adonisnetwork_go-ibft)
+
 # go-ibft README
 
 ## Overview
